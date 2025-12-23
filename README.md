@@ -195,7 +195,7 @@ Back_end/
 
 ## 👨‍💻 Auteur
 
-**Abdenour TRARI**  
+**MOHAMMED-AMINE EL HOUSSNI**  
 Projet d’analyse d’appels d’offres et agent IA intelligent.  
 Développé avec **Flask**, **React**, et **Groq API**.
 =======
